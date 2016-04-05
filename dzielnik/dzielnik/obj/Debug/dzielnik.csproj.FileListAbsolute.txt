@@ -1,0 +1,6 @@
+C:\Users\informatyka1\Desktop\dzielnik\dzielnik\bin\Debug\dzielnik.exe.config
+C:\Users\informatyka1\Desktop\dzielnik\dzielnik\bin\Debug\dzielnik.exe
+C:\Users\informatyka1\Desktop\dzielnik\dzielnik\bin\Debug\dzielnik.pdb
+C:\Users\informatyka1\Desktop\dzielnik\dzielnik\obj\Debug\dzielnik.csprojResolveAssemblyReference.cache
+C:\Users\informatyka1\Desktop\dzielnik\dzielnik\obj\Debug\dzielnik.exe
+C:\Users\informatyka1\Desktop\dzielnik\dzielnik\obj\Debug\dzielnik.pdb
